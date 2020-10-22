@@ -41,35 +41,22 @@
    :caption: Files Labs
    :hidden:
 
+   04-files/files_deploy/files_deploy
    04-files/files_smb_share/files_smb_share
    04-files/files_nfs_export/files_nfs_export
    04-files/files_file_blocking/files_file_blocking
    04-files/files_multiprotocol/files_multiprotocol
+   04-files/files_expand_cluster/files_expand_cluster
+   04-files/file_analytics_deploy/file_analytics_deploy
    04-files/file_analytics_scan/file_analytics_scan
    04-files/file_analytics_anomaly/file_analytics_anomaly
    04-files/peer/peer
-   04-files/files_deploy/files_deploy
-   04-files/file_analytics_deploy/file_analytics_deploy
-   04-files/files_expand_cluster/files_expand_cluster
 
 .. toctree::
    :maxdepth: 2
-   :caption: Consolidated Storage
+   :caption: Objects Labs
    :hidden:
 
-   05-storage/files_smb_share/files_smb_share
-   05-storage/files_nfs_export/files_nfs_export
-   05-storage/files_file_blocking/files_file_blocking
-   05-storage/files_multiprotocol/files_multiprotocol
-   05-storage/file_analytics_scan/file_analytics_scan
-   05-storage/file_analytics_anomaly/file_analytics_anomaly
-   05-storage/objects_buckets_users_access_control/objects_buckets_users_access_control
-   05-storage/objects_versioning_access_control/objects_versioning_access_control
-   05-storage/objects_cli_scripts/objects_cli_scripts
-   05-storage/peer/peer
-   05-storage/files_deploy/files_deploy
-   05-storage/file_analytics_deploy/file_analytics_deploy
-   05-storage/files_expand_cluster/files_expand_cluster
    05-storage/objects_deploy/objects_deploy
 
 .. toctree::
