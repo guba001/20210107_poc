@@ -112,6 +112,8 @@ Melden Sie sich auf folgende Website mit Ihren Zugangsdaten an: https://frame.nu
   * - PHX-POC206-User01 ... PHX-POC206-User20
     - nx2Tech630!
 
+NTNXLAB.local Active-Directory-Services
+++++++++++++
 
 Darüber hinaus besitzt der Cluster eine dedizierte Domain-Controller-VM, welche die Active-Directory-Services für die **NTNXLAB.local** Domain bereitstellt. Die Domain wurde mit den folgenden Nutzern und Gruppen vorkonfiguriert:
 
