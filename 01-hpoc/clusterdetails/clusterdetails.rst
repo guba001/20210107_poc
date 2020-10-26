@@ -109,7 +109,7 @@ Melden Sie sich auf folgende Website mit Ihren Zugangsdaten an: https://frame.nu
 
   * - Benutzername
     - Passwort
-  * - PHX-POC206-User01 - PHX-POC206-User20
+  * - PHX-POC206-User01 ... PHX-POC206-User20
     - nx2Tech630!
 
 
