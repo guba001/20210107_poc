@@ -104,7 +104,7 @@ Die folgende Tabelle führt die Zugangsdaten zur Frame-VDI Umgebung auf:
 Melden Sie sich auf folgende Website mit Ihren Zugangsdaten an: https://frame.nutanix.com/x/labs
 
 .. list-table::
-  :widths: 20 20 10
+  :widths: 20 20
   :header-rows: 1
 
   * - Benutzername
