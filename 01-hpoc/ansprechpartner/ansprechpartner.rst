@@ -16,7 +16,7 @@ Wenn es doch mal klemmt, sind Sie aber nicht alleine. Also keine Angst davor sic
    :header-rows: 1
 
    * - **Günter Baumgart**
-   * - .. figure:: images/TPawluc.png
+   * - .. figure:: images/gbaumgart.jpg
    * - **Senior Systems Engineer**
    * - Nutanix Germany GmbH
    * - +49 173 / 18 00 324
