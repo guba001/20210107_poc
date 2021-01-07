@@ -15,9 +15,9 @@ Wenn es doch mal klemmt, sind Sie aber nicht alleine. Also keine Angst davor sic
    :widths: 40
    :header-rows: 1
 
-   * - **Thomas Pawluc**
+   * - **Günter Baumgart**
    * - .. figure:: images/TPawluc.png
-   * - **Systems Engineer**
+   * - **Senior Systems Engineer**
    * - Nutanix Germany GmbH
-   * - +49 163 / 01 02 400
-   * - thomas.pawluc@nutanix.com
+   * - +49 173 / 18 00 324
+   * - guenter.baumgart@nutanix.com
