@@ -38,7 +38,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Labs - Files: File-Services mit | dem Nutanix File-Server
+   :caption: Labs - Files: File-Services mit |br| dem Nutanix File-Server
    :hidden:
 
    04-files/files_deploy/files_deploy
