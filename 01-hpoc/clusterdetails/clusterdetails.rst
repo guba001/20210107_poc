@@ -27,21 +27,21 @@ Infrastruktur IPs
      - Hypervisors
      - IPMI
    * - **Position A**
-     - 10.38.206.29
-     - 10.38.206.25
-     - 10.38.206.33
+     - 10.42.10.29
+     - 10.42.10.25
+     - 10.42.10.33
    * - **Position B**
-     - 10.38.206.30
-     - 10.38.206.26
-     - 10.38.206.34
+     - 10.42.10.30
+     - 10.42.10.26
+     - 10.42.10.34
    * - **Position C**
-     - 10.38.206.31
-     - 10.38.206.27
-     - 10.38.206.35
+     - 10.42.10.31
+     - 10.42.10.27
+     - 10.42.10.35
    * - **Position D**
-     - 10.38.206.32
-     - 10.38.206.28
-     - 10.38.206.36
+     - 10.42.10.32
+     - 10.42.10.28
+     - 10.42.10.36
 
 
 .. list-table::
@@ -51,13 +51,13 @@ Infrastruktur IPs
   * - Services
     - IP-Adressen
   * - **Cluster virtual IP**
-    - 10.38.206.37
+    - 10.42.10.37
   * - **iSCSI Data Services IP**
-    - 10.38.206.38
+    - 10.42.10.38
   * - **Prism Central**
-    - 10.38.206.39
+    - 10.42.10.39
   * - **Active Directory**
-    - 10.38.206.41
+    - 10.42.10.41
 
 
 Zugangsdaten
@@ -77,13 +77,13 @@ Die folgende Tabelle führt die standardmäßig hinterlegten Zugangsdaten für d
     - ADMIN
   * - **Prism Element Web**
     - admin
-    - nx2Tech630!
+    - nx2Tech682!
   * - **Prism Element SSH**
     - nutanix
-    - nx2Tech630!
+    - nx2Tech682!
   * - **Prism Central Web**
     - admin
-    - nx2Tech630!
+    - nx2Tech682!
   * - **Prism Central SSH**
     - nutanix
     - nutanix/4u
@@ -109,8 +109,8 @@ Melden Sie sich auf folgende Website mit Ihren Zugangsdaten an: https://frame.nu
 
   * - Benutzername
     - Passwort
-  * - PHX-POC206-User01 ... PHX-POC206-User20
-    - nx2Tech630!
+  * - PHX-POC010-User01 ... PHX-POC010-User20
+    - nx2Tech682!
 
 NTNXLAB.local Active-Directory-Services
 ++++++++++++
@@ -162,23 +162,23 @@ Die folgenden virtuellen Netzwerke wurden wie folgt vorkonfiguriert:
      - 0
      - 2063
    * - **Netzwerk IP Adresse**
-     - 10.38.206.0
-     - 10.38.206.128
+     - 10.42.10.0
+     - 10.42.10.128
    * - **Netzmaske**
      - 255.255.255.128 (/25)
      - 255.255.255.128 (/25)
    * - **Default Gateway**
-     - 10.38.206.1
-     - 10.38.206.129
+     - 10.42.10.1
+     - 10.42.10.129
    * - **IP Address Management (IPAM)**
      - Aktiviert
      - Aktiviert
    * - **DHCP Pool**
-     - 10.38.206.50  - 125
-     - 10.38.206.132 - 253
+     - 10.42.10.50  - 125
+     - 10.42.10.132 - 253
    * - **Domain**
      - NTNXLAB.local
      - NTNXLAB.local
    * - **DNS**
-     - 10.38.206.41 (DC VM)
-     - 10.38.206.41 (DC VM)
+     - 10.42.10.41 (DC VM)
+     - 10.42.10.41 (DC VM)
