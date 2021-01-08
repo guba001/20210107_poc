@@ -11,7 +11,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Labs - AOS und AHV: Die Grundlagen
+   :caption: AOS und AHV, die Grundlagen
    :hidden:
 
    02-aosandahv/lab_nutanix_tech_overview/lab_nutanix_tech_overview
@@ -25,7 +25,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Labs: Die Private Cloud von Nutanix
+   :caption: Die Private Cloud von Nutanix
    :hidden:
 
    03-privatecloud/dayinlife/dayinlife
@@ -38,7 +38,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Labs - Files: File-Services mit |br| dem Nutanix File-Server
+   :caption: File-Services mit dem Nutanix File-Server
    :hidden:
 
    04-files/files_deploy/files_deploy
@@ -54,14 +54,14 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Labs - Objects: S3 mit dem Object | Storage von Nutanix 
+   :caption: S3 mit dem Object Storage von Nutanix 
    :hidden:
 
    05-storage/objects_deploy/objects_deploy
 
 .. toctree::
    :maxdepth: 2
-   :caption: Labs - Citrix: EUC mit einer VDI von | Citrix auf der Nutaniux-Plattform | betreiben
+   :caption: EUC mit Citrix auf der Nutaniux-Plattform
    :hidden:
 
    06-euc/citrix/gettingstarted/gettingstarted
@@ -77,7 +77,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Labs - Frame: EUC mit der VDI-Lösung | von Nutanix
+   :caption: EUC mit der Frame VDI von Nutanix
    :hidden:
 
    06-euc/frame/gettingstarted/gettingstarted
@@ -90,7 +90,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Labs - Era: Microsoft SQL Datenbanken | mit Era verwalten
+   :caption: MS SQL Datenbanken mit Era verwalten
    :hidden:
 
    07-era/mssql/labsetup/labsetup
@@ -101,7 +101,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Labs - Era: Oracle-Datenbanken | mit Era verwalten
+   :caption: Oracle Datenbanken mit Era verwalten
    :hidden:
 
    07-era/oracle/labsetup/labsetup
@@ -113,7 +113,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Labs - Era: PostgreSQL-Datenbanken mit Era verwalten
+   :caption: PostgreSQL Datenbanken mit Era verwalten
    :hidden:
 
    07-era/postgres/labsetup/labsetup
@@ -123,7 +123,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Labs - Calm: Automatisierung mit Calm, | Erstellung, Verwendung und Steuerung | von Anwendungen
+   :caption: Automatisierung von Anwendungen mit Calm
    :hidden:
 
    08-calm/what_is_calm/what_is_calm
@@ -141,7 +141,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Labs - Splunk: Splunk auf einer Nutanix | Plattform mit AHV betreiben
+   :caption: Splunk auf einer Nutanix AHV Plattform
    :hidden:
 
    09-splunk/objects_splunk/objects_splunk
@@ -150,7 +150,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Labs - API: Steuerung der Nutanix-Infrastruktur | via API
+   :caption: Steuerung der Nutanix-Infrastruktur via API
    :hidden:
 
    10-api/env_setup/env_setup
@@ -167,7 +167,7 @@
 
 .. toctree::
   :maxdepth: 2
-  :caption: Labs: Anhang
+  :caption: Anhang
   :hidden:
 
   tools_vms/windows_tools_vm
