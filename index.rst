@@ -38,7 +38,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: File-Services mit dem Nutanix File-Server
+   :caption: File-Services mit dem NTNX File-Server
    :hidden:
 
    04-files/files_deploy/files_deploy
@@ -54,14 +54,14 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: S3 mit dem Object Storage von Nutanix 
+   :caption: S3 mit dem Object Storage von NTNX 
    :hidden:
 
    05-storage/objects_deploy/objects_deploy
 
 .. toctree::
    :maxdepth: 2
-   :caption: EUC mit Citrix auf der Nutaniux-Plattform
+   :caption: EUC mit Citrix auf der NTNX-Plattform
    :hidden:
 
    06-euc/citrix/gettingstarted/gettingstarted
@@ -90,7 +90,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: MS SQL Datenbanken mit Era verwalten
+   :caption: MS SQL Database mit Era verwalten
    :hidden:
 
    07-era/mssql/labsetup/labsetup
@@ -101,7 +101,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Oracle Datenbanken mit Era verwalten
+   :caption: Oracle Database mit Era verwalten
    :hidden:
 
    07-era/oracle/labsetup/labsetup
@@ -113,7 +113,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: PostgreSQL Datenbanken mit Era verwalten
+   :caption: PostgreSQL Database mit Era
    :hidden:
 
    07-era/postgres/labsetup/labsetup
@@ -123,7 +123,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Automatisierung von Anwendungen mit Calm
+   :caption: Anwendungsautomatisierung mit Calm
    :hidden:
 
    08-calm/what_is_calm/what_is_calm
@@ -141,7 +141,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Splunk auf einer Nutanix AHV Plattform
+   :caption: Splunk auf einer AOS/AHV Plattform
    :hidden:
 
    09-splunk/objects_splunk/objects_splunk
@@ -150,7 +150,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Steuerung der Nutanix-Infrastruktur via API
+   :caption: Die API der Nutanix-Infrastruktur
    :hidden:
 
    10-api/env_setup/env_setup
