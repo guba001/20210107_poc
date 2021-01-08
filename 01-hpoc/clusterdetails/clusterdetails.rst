@@ -160,7 +160,7 @@ Die folgenden virtuellen Netzwerke wurden wie folgt vorkonfiguriert:
      - **Sekundäres** Netzwerk
    * - **VLAN**
      - 0
-     - 2063
+     - 101
    * - **Netzwerk IP Adresse**
      - 10.42.10.0
      - 10.42.10.128
