@@ -77,13 +77,13 @@ Die folgende Tabelle führt die standardmäßig hinterlegten Zugangsdaten für d
     - ADMIN
   * - **Prism Element Web**
     - admin
-    - nx2Tech682!
+    - nx2Tech000!
   * - **Prism Element SSH**
     - nutanix
-    - nx2Tech682!
+    - nx2Tech000!
   * - **Prism Central Web**
     - admin
-    - nx2Tech682!
+    - nx2Tech000!
   * - **Prism Central SSH**
     - nutanix
     - nutanix/4u
@@ -110,7 +110,7 @@ Melden Sie sich auf folgende Website mit Ihren Zugangsdaten an: https://frame.nu
   * - Benutzername
     - Passwort
   * - PHX-POC010-User01 ... PHX-POC010-User20
-    - nx2Tech682!
+    - nx2Tech000!
 
 NTNXLAB.local Active-Directory-Services
 ++++++++++++
