@@ -54,7 +54,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: S3 mit dem Object Storage von NTNX 
+   :caption: S3 mit dem Object Storage von NTNX
    :hidden:
 
    05-storage/objects_deploy/objects_deploy
@@ -164,6 +164,15 @@
    10-api/api_delete_vm/api_delete_vm
    10-api/api_vm_list/api_vm_list
 
+   .. toctree::
+      :maxdepth: 2
+      :caption: Karbon Lab
+      :hidden:
+
+   11-karbon/karbon_enable_and_images/karbon_enable_and_images
+   11-karbon/karbon_create_cluster/karbon_create_cluster
+   11-karbon/karbon_deploy_application/karbon_deploy_application
+   11-karbon/karbon_delete_application/karbon_delete_application
 
 .. toctree::
   :maxdepth: 2
