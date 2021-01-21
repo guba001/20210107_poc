@@ -164,10 +164,10 @@
    10-api/api_delete_vm/api_delete_vm
    10-api/api_vm_list/api_vm_list
 
-   .. toctree::
-      :maxdepth: 2
-      :caption: Karbon Lab
-      :hidden:
+.. toctree::
+   :maxdepth: 2
+   :caption: Karbon Lab
+   :hidden:
 
    11-karbon/karbon_enable_and_images/karbon_enable_and_images
    11-karbon/karbon_create_cluster/karbon_create_cluster
