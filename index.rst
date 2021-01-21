@@ -179,13 +179,13 @@
    :caption: Einstieg in Kubernetes
    :hidden:
 
-   einstieg/einstieg
-   k8s/k8s
-   day1/day1
-   day2/day2
-   day3/day3
-   day4/day4
-   day5/day5
+   12-kubernetes-101/einstieg/einstieg
+   12-kubernetes-101/k8s/k8s
+   12-kubernetes-101/day1/day1
+   12-kubernetes-101/day2/day2
+   12-kubernetes-101/day3/day3
+   12-kubernetes-101/day4/day4
+   12-kubernetes-101/day5/day5
 
 .. toctree::
    :maxdepth: 2
