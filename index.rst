@@ -166,6 +166,14 @@
 
 .. toctree::
    :maxdepth: 2
+   :caption: Tools VM
+   :hidden:
+
+   tools_vms/windows_tools_vm
+   tools_vms/linux_tools_vm
+
+.. toctree::
+   :maxdepth: 2
    :caption: Karbon Lab
    :hidden:
 
@@ -186,14 +194,6 @@
    12-kubernetes-101/day3/day3
    12-kubernetes-101/day4/day4
    12-kubernetes-101/day5/day5
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Anhang
-   :hidden:
-
-  tools_vms/windows_tools_vm
-  tools_vms/linux_tools_vm
 
 .. _getting_started:
 
