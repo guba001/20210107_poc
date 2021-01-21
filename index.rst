@@ -175,9 +175,22 @@
    11-karbon/karbon_delete_application/karbon_delete_application
 
 .. toctree::
-  :maxdepth: 2
-  :caption: Anhang
-  :hidden:
+   :maxdepth: 2
+   :caption: Einstieg in Kubernetes
+   :hidden:
+
+   einstieg/einstieg
+   k8s/k8s
+   day1/day1
+   day2/day2
+   day3/day3
+   day4/day4
+   day5/day5
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Anhang
+   :hidden:
 
   tools_vms/windows_tools_vm
   tools_vms/linux_tools_vm
